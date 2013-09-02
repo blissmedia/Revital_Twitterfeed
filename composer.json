@@ -1,0 +1,13 @@
+{
+    "name":"revital/twitterfeed",
+    "type":"magento-module",
+    "homepage":"https://github.com/blissmedia/twitter_feed",
+    "authors":[
+        {
+            "name":"Revital"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}

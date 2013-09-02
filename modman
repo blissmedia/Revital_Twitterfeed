@@ -1,0 +1,4 @@
+#Revital Twitter Feed
+app/code/community/Revital/TwitterFeed	                app/code/community/Revital/TwitterFeed
+
+app/etc/modules/*	                                    app/etc/modules/
